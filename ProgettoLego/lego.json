@@ -1,0 +1,32 @@
+{
+  "lego": [
+    {
+      "SetNumber":"LEGO 1889",
+      "SetTheme":"Pirates",
+      "SetName":"Pirates Treasure Hold",
+      "Year":"1992",
+      "ID" :"1889",
+      "Copertina":"1889b.jpg",
+      "Istruzioni":["Istruz1Isola.jpg","Istruz2.jpg", "Istruz3.jpg"]
+    },
+    {
+      "SetNumber":"LEGO 1747",
+      "SetTheme":"Pirates",
+      "SetName":"Treasure Cave",
+      "Year":"1996",
+      "ID" :"1747",
+      "Copertina":"treasureCave.jpg",
+      "Istruzioni":["treasureCaveIstr1.jpg","treasureCaveIstr2.jpg"]
+    },
+    {
+      "SetNumber":"LEGO 6232",
+      "SetTheme":"Pirates",
+      "SetName":"Skeleton Crew",
+      "Year":"1996",
+      "ID" :"6232",
+      "Copertina":"Skeleton.jpg",
+      "Istruzioni":["SkeletonIstr1.jpg","SkeletonIstr2.jpg"]
+    }
+    
+  ]
+}

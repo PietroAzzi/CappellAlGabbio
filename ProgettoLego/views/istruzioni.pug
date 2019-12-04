@@ -1,0 +1,17 @@
+doctype html
+html
+    head
+        title Lego con i Pirati
+        link(rel='stylesheet', href='/css/style.css')
+        meta(name="viewport" content="width=device-width, initial-scale=1")
+    body
+        header.header
+            h1 #{Pirates.SetNumber}
+        article.container
+            a Categoria: #{Pirates.SetTheme}
+            a Nome: #{Pirates.SetName}
+            a Anno di costruzione: #{Pirates.Year}
+        each foto in Pirates.Istruzioni
+            img.container(src=`/img/${foto}`)
+
+        
